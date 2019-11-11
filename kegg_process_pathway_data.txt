@@ -1,0 +1,263 @@
+pathway	process
+Glycolysis / Gluconeogenesis [PATH:ko00010]	Carbohydrate metabolism
+Citrate cycle (TCA cycle) [PATH:ko00020]	Carbohydrate metabolism
+Pentose phosphate pathway [PATH:ko00030]	Carbohydrate metabolism
+Pentose and glucuronate interconversions [PATH:ko00040]	Carbohydrate metabolism
+Fructose and mannose metabolism [PATH:ko00051]	Carbohydrate metabolism
+Galactose metabolism [PATH:ko00052]	Carbohydrate metabolism
+Ascorbate and aldarate metabolism [PATH:ko00053]	Carbohydrate metabolism
+Starch and sucrose metabolism [PATH:ko00500]	Carbohydrate metabolism
+Amino sugar and nucleotide sugar metabolism [PATH:ko00520]	Carbohydrate metabolism
+Pyruvate metabolism [PATH:ko00620]	Carbohydrate metabolism
+Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	Carbohydrate metabolism
+Propanoate metabolism [PATH:ko00640]	Carbohydrate metabolism
+Butanoate metabolism [PATH:ko00650]	Carbohydrate metabolism
+C5-Branched dibasic acid metabolism [PATH:ko00660]	Carbohydrate metabolism
+Inositol phosphate metabolism [PATH:ko00562]	Carbohydrate metabolism
+Oxidative phosphorylation [PATH:ko00190]	Energy metabolism
+Photosynthesis [PATH:ko00195]	Energy metabolism
+Photosynthesis - antenna proteins [PATH:ko00196]	Energy metabolism
+Carbon fixation in photosynthetic organisms [PATH:ko00710]	Energy metabolism
+Carbon fixation pathways in prokaryotes [PATH:ko00720]	Energy metabolism
+Methane metabolism [PATH:ko00680]	Energy metabolism
+Nitrogen metabolism [PATH:ko00910]	Energy metabolism
+Sulfur metabolism [PATH:ko00920]	Energy metabolism
+Fatty acid biosynthesis [PATH:ko00061]	Lipid metabolism
+Fatty acid elongation [PATH:ko00062]	Lipid metabolism
+Fatty acid degradation [PATH:ko00071]	Lipid metabolism
+Synthesis and degradation of ketone bodies [PATH:ko00072]	Lipid metabolism
+Cutin, suberine and wax biosynthesis [PATH:ko00073]	Lipid metabolism
+Steroid biosynthesis [PATH:ko00100]	Lipid metabolism
+Primary bile acid biosynthesis [PATH:ko00120]	Lipid metabolism
+Secondary bile acid biosynthesis [PATH:ko00121]	Lipid metabolism
+Steroid hormone biosynthesis [PATH:ko00140]	Lipid metabolism
+Glycerolipid metabolism [PATH:ko00561]	Lipid metabolism
+Glycerophospholipid metabolism [PATH:ko00564]	Lipid metabolism
+Ether lipid metabolism [PATH:ko00565]	Lipid metabolism
+Sphingolipid metabolism [PATH:ko00600]	Lipid metabolism
+Arachidonic acid metabolism [PATH:ko00590]	Lipid metabolism
+Linoleic acid metabolism [PATH:ko00591]	Lipid metabolism
+alpha-Linolenic acid metabolism [PATH:ko00592]	Lipid metabolism
+Biosynthesis of unsaturated fatty acids [PATH:ko01040]	Lipid metabolism
+Purine metabolism [PATH:ko00230]	Nucleotide metabolism
+Pyrimidine metabolism [PATH:ko00240]	Nucleotide metabolism
+Alanine, aspartate and glutamate metabolism [PATH:ko00250]	Amino acid metabolism
+Glycine, serine and threonine metabolism [PATH:ko00260]	Amino acid metabolism
+Cysteine and methionine metabolism [PATH:ko00270]	Amino acid metabolism
+Valine, leucine and isoleucine degradation [PATH:ko00280]	Amino acid metabolism
+Valine, leucine and isoleucine biosynthesis [PATH:ko00290]	Amino acid metabolism
+Lysine biosynthesis [PATH:ko00300]	Amino acid metabolism
+Lysine degradation [PATH:ko00310]	Amino acid metabolism
+Arginine biosynthesis [PATH:ko00220]	Amino acid metabolism
+Arginine and proline metabolism [PATH:ko00330]	Amino acid metabolism
+Histidine metabolism [PATH:ko00340]	Amino acid metabolism
+Tyrosine metabolism [PATH:ko00350]	Amino acid metabolism
+Phenylalanine metabolism [PATH:ko00360]	Amino acid metabolism
+Tryptophan metabolism [PATH:ko00380]	Amino acid metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]	Amino acid metabolism
+beta-Alanine metabolism [PATH:ko00410]	Metabolism of other amino acids
+Taurine and hypotaurine metabolism [PATH:ko00430]	Metabolism of other amino acids
+Phosphonate and phosphinate metabolism [PATH:ko00440]	Metabolism of other amino acids
+Selenocompound metabolism [PATH:ko00450]	Metabolism of other amino acids
+Cyanoamino acid metabolism [PATH:ko00460]	Metabolism of other amino acids
+D-Glutamine and D-glutamate metabolism [PATH:ko00471]	Metabolism of other amino acids
+D-Arginine and D-ornithine metabolism [PATH:ko00472]	Metabolism of other amino acids
+D-Alanine metabolism [PATH:ko00473]	Metabolism of other amino acids
+Glutathione metabolism [PATH:ko00480]	Metabolism of other amino acids
+N-Glycan biosynthesis [PATH:ko00510]	Glycan biosynthesis and metabolism
+Various types of N-glycan biosynthesis [PATH:ko00513]	Glycan biosynthesis and metabolism
+Mucin type O-glycan biosynthesis [PATH:ko00512]	Glycan biosynthesis and metabolism
+Mannose type O-glycan biosynthesis [PATH:ko00515]	Glycan biosynthesis and metabolism
+Other types of O-glycan biosynthesis [PATH:ko00514]	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate [PATH:ko00532]	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin [PATH:ko00534]	Glycan biosynthesis and metabolism
+Glycosaminoglycan biosynthesis - keratan sulfate [PATH:ko00533]	Glycan biosynthesis and metabolism
+Glycosaminoglycan degradation [PATH:ko00531]	Glycan biosynthesis and metabolism
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis [PATH:ko00563]	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series [PATH:ko00601]	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - globo and isoglobo series [PATH:ko00603]	Glycan biosynthesis and metabolism
+Glycosphingolipid biosynthesis - ganglio series [PATH:ko00604]	Glycan biosynthesis and metabolism
+Lipopolysaccharide biosynthesis [PATH:ko00540]	Glycan biosynthesis and metabolism
+Peptidoglycan biosynthesis [PATH:ko00550]	Glycan biosynthesis and metabolism
+Other glycan degradation [PATH:ko00511]	Glycan biosynthesis and metabolism
+Lipoarabinomannan (LAM) biosynthesis [PATH:ko00571]	Glycan biosynthesis and metabolism
+Arabinogalactan biosynthesis - Mycobacterium [PATH:ko00572]	Glycan biosynthesis and metabolism
+Thiamine metabolism [PATH:ko00730]	Metabolism of cofactors and vitamins
+Riboflavin metabolism [PATH:ko00740]	Metabolism of cofactors and vitamins
+Vitamin B6 metabolism [PATH:ko00750]	Metabolism of cofactors and vitamins
+Nicotinate and nicotinamide metabolism [PATH:ko00760]	Metabolism of cofactors and vitamins
+Pantothenate and CoA biosynthesis [PATH:ko00770]	Metabolism of cofactors and vitamins
+Biotin metabolism [PATH:ko00780]	Metabolism of cofactors and vitamins
+Lipoic acid metabolism [PATH:ko00785]	Metabolism of cofactors and vitamins
+Folate biosynthesis [PATH:ko00790]	Metabolism of cofactors and vitamins
+One carbon pool by folate [PATH:ko00670]	Metabolism of cofactors and vitamins
+Retinol metabolism [PATH:ko00830]	Metabolism of cofactors and vitamins
+Porphyrin and chlorophyll metabolism [PATH:ko00860]	Metabolism of cofactors and vitamins
+Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130]	Metabolism of cofactors and vitamins
+Terpenoid backbone biosynthesis [PATH:ko00900]	Metabolism of terpenoids and polyketides
+Monoterpenoid biosynthesis [PATH:ko00902]	Metabolism of terpenoids and polyketides
+Sesquiterpenoid and triterpenoid biosynthesis [PATH:ko00909]	Metabolism of terpenoids and polyketides
+Diterpenoid biosynthesis [PATH:ko00904]	Metabolism of terpenoids and polyketides
+Carotenoid biosynthesis [PATH:ko00906]	Metabolism of terpenoids and polyketides
+Brassinosteroid biosynthesis [PATH:ko00905]	Metabolism of terpenoids and polyketides
+Insect hormone biosynthesis [PATH:ko00981]	Metabolism of terpenoids and polyketides
+Zeatin biosynthesis [PATH:ko00908]	Metabolism of terpenoids and polyketides
+Limonene and pinene degradation [PATH:ko00903]	Metabolism of terpenoids and polyketides
+Geraniol degradation [PATH:ko00281]	Metabolism of terpenoids and polyketides
+Type I polyketide structures [PATH:ko01052]	Metabolism of terpenoids and polyketides
+Biosynthesis of 12-, 14- and 16-membered macrolides [PATH:ko00522]	Metabolism of terpenoids and polyketides
+Biosynthesis of ansamycins [PATH:ko01051]	Metabolism of terpenoids and polyketides
+Biosynthesis of enediyne antibiotics [PATH:ko01059]	Metabolism of terpenoids and polyketides
+Biosynthesis of type II polyketide backbone [PATH:ko01056]	Metabolism of terpenoids and polyketides
+Biosynthesis of type II polyketide products [PATH:ko01057]	Metabolism of terpenoids and polyketides
+Tetracycline biosynthesis [PATH:ko00253]	Metabolism of terpenoids and polyketides
+Polyketide sugar unit biosynthesis [PATH:ko00523]	Metabolism of terpenoids and polyketides
+Nonribosomal peptide structures [PATH:ko01054]	Metabolism of terpenoids and polyketides
+Biosynthesis of siderophore group nonribosomal peptides [PATH:ko01053]	Metabolism of terpenoids and polyketides
+Biosynthesis of vancomycin group antibiotics [PATH:ko01055]	Metabolism of terpenoids and polyketides
+Phenylpropanoid biosynthesis [PATH:ko00940]	Biosynthesis of other secondary metabolites
+Stilbenoid, diarylheptanoid and gingerol biosynthesis [PATH:ko00945]	Biosynthesis of other secondary metabolites
+Flavonoid biosynthesis [PATH:ko00941]	Biosynthesis of other secondary metabolites
+Flavone and flavonol biosynthesis [PATH:ko00944]	Biosynthesis of other secondary metabolites
+Anthocyanin biosynthesis [PATH:ko00942]	Biosynthesis of other secondary metabolites
+Isoflavonoid biosynthesis [PATH:ko00943]	Biosynthesis of other secondary metabolites
+Indole alkaloid biosynthesis [PATH:ko00901]	Biosynthesis of other secondary metabolites
+Indole diterpene alkaloid biosynthesis [PATH:ko00403]	Biosynthesis of other secondary metabolites
+Isoquinoline alkaloid biosynthesis [PATH:ko00950]	Biosynthesis of other secondary metabolites
+Tropane, piperidine and pyridine alkaloid biosynthesis [PATH:ko00960]	Biosynthesis of other secondary metabolites
+Acridone alkaloid biosynthesis [PATH:ko01058]	Biosynthesis of other secondary metabolites
+Caffeine metabolism [PATH:ko00232]	Biosynthesis of other secondary metabolites
+Betalain biosynthesis [PATH:ko00965]	Biosynthesis of other secondary metabolites
+Glucosinolate biosynthesis [PATH:ko00966]	Biosynthesis of other secondary metabolites
+Benzoxazinoid biosynthesis [PATH:ko00402]	Biosynthesis of other secondary metabolites
+Penicillin and cephalosporin biosynthesis [PATH:ko00311]	Biosynthesis of other secondary metabolites
+Carbapenem biosynthesis [PATH:ko00332]	Biosynthesis of other secondary metabolites
+Monobactam biosynthesis [PATH:ko00261]	Biosynthesis of other secondary metabolites
+Clavulanic acid biosynthesis [PATH:ko00331]	Biosynthesis of other secondary metabolites
+Streptomycin biosynthesis [PATH:ko00521]	Biosynthesis of other secondary metabolites
+Neomycin, kanamycin and gentamicin biosynthesis [PATH:ko00524]	Biosynthesis of other secondary metabolites
+Acarbose and validamycin biosynthesis [PATH:ko00525]	Biosynthesis of other secondary metabolites
+Puromycin biosynthesis [PATH:ko00231]	Biosynthesis of other secondary metabolites
+Novobiocin biosynthesis [PATH:ko00401]	Biosynthesis of other secondary metabolites
+Staurosporine biosynthesis [PATH:ko00404]	Biosynthesis of other secondary metabolites
+Phenazine biosynthesis [PATH:ko00405]	Biosynthesis of other secondary metabolites
+Prodigiosin biosynthesis [PATH:ko00333]	Biosynthesis of other secondary metabolites
+Aflatoxin biosynthesis [PATH:ko00254]	Biosynthesis of other secondary metabolites
+Biosynthesis of secondary metabolites - unclassified [PATH:ko00999]	Biosynthesis of other secondary metabolites
+Benzoate degradation [PATH:ko00362]	Xenobiotics biodegradation and metabolism
+Aminobenzoate degradation [PATH:ko00627]	Xenobiotics biodegradation and metabolism
+Fluorobenzoate degradation [PATH:ko00364]	Xenobiotics biodegradation and metabolism
+Chloroalkane and chloroalkene degradation [PATH:ko00625]	Xenobiotics biodegradation and metabolism
+Chlorocyclohexane and chlorobenzene degradation [PATH:ko00361]	Xenobiotics biodegradation and metabolism
+Toluene degradation [PATH:ko00623]	Xenobiotics biodegradation and metabolism
+Xylene degradation [PATH:ko00622]	Xenobiotics biodegradation and metabolism
+Nitrotoluene degradation [PATH:ko00633]	Xenobiotics biodegradation and metabolism
+Ethylbenzene degradation [PATH:ko00642]	Xenobiotics biodegradation and metabolism
+Styrene degradation [PATH:ko00643]	Xenobiotics biodegradation and metabolism
+Atrazine degradation [PATH:ko00791]	Xenobiotics biodegradation and metabolism
+Caprolactam degradation [PATH:ko00930]	Xenobiotics biodegradation and metabolism
+Bisphenol degradation [PATH:ko00363]	Xenobiotics biodegradation and metabolism
+Dioxin degradation [PATH:ko00621]	Xenobiotics biodegradation and metabolism
+Naphthalene degradation [PATH:ko00626]	Xenobiotics biodegradation and metabolism
+Polycyclic aromatic hydrocarbon degradation [PATH:ko00624]	Xenobiotics biodegradation and metabolism
+Furfural degradation [PATH:ko00365]	Xenobiotics biodegradation and metabolism
+Steroid degradation [PATH:ko00984]	Xenobiotics biodegradation and metabolism
+Metabolism of xenobiotics by cytochrome P450 [PATH:ko00980]	Xenobiotics biodegradation and metabolism
+Drug metabolism - cytochrome P450 [PATH:ko00982]	Xenobiotics biodegradation and metabolism
+Drug metabolism - other enzymes [PATH:ko00983]	Xenobiotics biodegradation and metabolism
+Global maps only	Not included in regular maps
+RNA polymerase [PATH:ko03020]	Transcription
+Basal transcription factors [PATH:ko03022]	Transcription
+Spliceosome [PATH:ko03040]	Transcription
+Ribosome [PATH:ko03010]	Translation
+Aminoacyl-tRNA biosynthesis [PATH:ko00970]	Translation
+RNA transport [PATH:ko03013]	Translation
+mRNA surveillance pathway [PATH:ko03015]	Translation
+Ribosome biogenesis in eukaryotes [PATH:ko03008]	Translation
+Protein export [PATH:ko03060]	Folding, sorting and degradation
+Protein processing in endoplasmic reticulum [PATH:ko04141]	Folding, sorting and degradation
+SNARE interactions in vesicular transport [PATH:ko04130]	Folding, sorting and degradation
+Ubiquitin mediated proteolysis [PATH:ko04120]	Folding, sorting and degradation
+Sulfur relay system [PATH:ko04122]	Folding, sorting and degradation
+Proteasome [PATH:ko03050]	Folding, sorting and degradation
+RNA degradation [PATH:ko03018]	Folding, sorting and degradation
+DNA replication [PATH:ko03030]	Replication and repair
+Base excision repair [PATH:ko03410]	Replication and repair
+Nucleotide excision repair [PATH:ko03420]	Replication and repair
+Mismatch repair [PATH:ko03430]	Replication and repair
+Homologous recombination [PATH:ko03440]	Replication and repair
+Non-homologous end-joining [PATH:ko03450]	Replication and repair
+Fanconi anemia pathway [PATH:ko03460]	Replication and repair
+ABC transporters [PATH:ko02010]	Membrane transport
+Phosphotransferase system (PTS) [PATH:ko02060]	Membrane transport
+Bacterial secretion system [PATH:ko03070]	Membrane transport
+Two-component system [PATH:ko02020]	Signal transduction
+Ras signaling pathway [PATH:ko04014]	Signal transduction
+Rap1 signaling pathway [PATH:ko04015]	Signal transduction
+MAPK signaling pathway [PATH:ko04010]	Signal transduction
+MAPK signaling pathway - fly [PATH:ko04013]	Signal transduction
+MAPK signaling pathway - plant [PATH:ko04016]	Signal transduction
+MAPK signaling pathway - yeast [PATH:ko04011]	Signal transduction
+ErbB signaling pathway [PATH:ko04012]	Signal transduction
+Wnt signaling pathway [PATH:ko04310]	Signal transduction
+Notch signaling pathway [PATH:ko04330]	Signal transduction
+Hedgehog signaling pathway [PATH:ko04340]	Signal transduction
+Hedgehog signaling pathway - fly [PATH:ko04341]	Signal transduction
+TGF-beta signaling pathway [PATH:ko04350]	Signal transduction
+Hippo signaling pathway [PATH:ko04390]	Signal transduction
+Hippo signaling pathway - fly [PATH:ko04391]	Signal transduction
+Hippo signaling pathway - multiple species [PATH:ko04392]	Signal transduction
+VEGF signaling pathway [PATH:ko04370]	Signal transduction
+Apelin signaling pathway [PATH:ko04371]	Signal transduction
+Jak-STAT signaling pathway [PATH:ko04630]	Signal transduction
+NF-kappa B signaling pathway [PATH:ko04064]	Signal transduction
+TNF signaling pathway [PATH:ko04668]	Signal transduction
+HIF-1 signaling pathway [PATH:ko04066]	Signal transduction
+FoxO signaling pathway [PATH:ko04068]	Signal transduction
+Calcium signaling pathway [PATH:ko04020]	Signal transduction
+Phosphatidylinositol signaling system [PATH:ko04070]	Signal transduction
+Phospholipase D signaling pathway [PATH:ko04072]	Signal transduction
+Sphingolipid signaling pathway [PATH:ko04071]	Signal transduction
+cAMP signaling pathway [PATH:ko04024]	Signal transduction
+cGMP-PKG signaling pathway [PATH:ko04022]	Signal transduction
+PI3K-Akt signaling pathway [PATH:ko04151]	Signal transduction
+AMPK signaling pathway [PATH:ko04152]	Signal transduction
+mTOR signaling pathway [PATH:ko04150]	Signal transduction
+Plant hormone signal transduction [PATH:ko04075]	Signal transduction
+Neuroactive ligand-receptor interaction [PATH:ko04080]	Signaling molecules and interaction
+Cytokine-cytokine receptor interaction [PATH:ko04060]	Signaling molecules and interaction
+ECM-receptor interaction [PATH:ko04512]	Signaling molecules and interaction
+Cell adhesion molecules (CAMs) [PATH:ko04514]	Signaling molecules and interaction
+Endocytosis [PATH:ko04144]	Transport and catabolism
+Phagosome [PATH:ko04145]	Transport and catabolism
+Lysosome [PATH:ko04142]	Transport and catabolism
+Peroxisome [PATH:ko04146]	Transport and catabolism
+Autophagy - animal [PATH:ko04140]	Transport and catabolism
+Autophagy - yeast [PATH:ko04138]	Transport and catabolism
+Autophagy - other [PATH:ko04136]	Transport and catabolism
+Mitophagy - animal [PATH:ko04137]	Transport and catabolism
+Mitophagy - yeast [PATH:ko04139]	Transport and catabolism
+Cell cycle [PATH:ko04110]	Cell growth and death
+Cell cycle - yeast [PATH:ko04111]	Cell growth and death
+Cell cycle - Caulobacter [PATH:ko04112]	Cell growth and death
+Meiosis - yeast [PATH:ko04113]	Cell growth and death
+Oocyte meiosis [PATH:ko04114]	Cell growth and death
+Apoptosis [PATH:ko04210]	Cell growth and death
+Apoptosis - fly [PATH:ko04214]	Cell growth and death
+Apoptosis - multiple species [PATH:ko04215]	Cell growth and death
+Ferroptosis [PATH:ko04216]	Cell growth and death
+Necroptosis [PATH:ko04217]	Cell growth and death
+p53 signaling pathway [PATH:ko04115]	Cell growth and death
+Cellular senescence [PATH:ko04218]	Cell growth and death
+Focal adhesion [PATH:ko04510]	Cellular community - eukaryotes
+Adherens junction [PATH:ko04520]	Cellular community - eukaryotes
+Tight junction [PATH:ko04530]	Cellular community - eukaryotes
+Gap junction [PATH:ko04540]	Cellular community - eukaryotes
+Signaling pathways regulating pluripotency of stem cells [PATH:ko04550]	Cellular community - eukaryotes
+Quorum sensing [PATH:ko02024]	Cellular community - prokaryotes
+Biofilm formation - Vibrio cholerae [PATH:ko05111]	Cellular community - prokaryotes
+Biofilm formation - Pseudomonas aeruginosa [PATH:ko02025]	Cellular community - prokaryotes
+Biofilm formation - Escherichia coli [PATH:ko02026]	Cellular community - prokaryotes
+Bacterial chemotaxis [PATH:ko02030]	Cell motility
+Flagellar assembly [PATH:ko02040]	Cell motility
+Regulation of actin cytoskeleton [PATH:ko04810]	Cell motility
