@@ -1,9 +1,10 @@
 ### COUNT THE GENES AND PATHWAYS WITH KO ANNOTATION IN EACH METAGENOME BY LINEAGE ##
+#The output will be a list of dataframes, each dataframe will countain the KO or pahthway counts of each metagenome
 
 # WORKING DIRECTORIES
-setwd("C:/my_path")
-data.dir=c("C:/my_data") #metagenomic data
-result.dir=c("C:/my_path/counts_per_taxa_domain")
+setwd("/my_path")
+data.dir=c("/my_data") #metagenomic data
+result.dir=c("/my_path/counts_per_taxa_domain")
 dir.create(result.dir, recursive = T, showWarnings = F)
 
 # LIBRARIES
@@ -30,14 +31,12 @@ files=grep(33000,list.files(data.dir),value = T)
 keys=full.meta$Genome_name ; names(keys)=full.meta$taxon_oid
 
  
-# LOAD THE NECESSARY TAXA
+# LOAD THE NECESSARY TAXA IDS
+ # domain, phylum, class, order, family 
 load(file=paste(getwd(),"meta_domain_ids",sep="/"))
-load(file=paste(getwd(),"meta_phylum_ids",sep="/"))
+taxon=c(d)
 
-# SELECT THE TAXA FOR COUNTING (USE YOUR OWN COMMANDS)
-taxon=c(p)
-
-# COUNT #
+# COUNT FUNTIONS
 # result will count each ko category of each taxa in each metagenome (list of 20 tables)
 # p.result will count each pathway of each taxa in each metagenome (list of 20 tables)
 result=list()
