@@ -1,0 +1,21 @@
+taxon_oid	Domain	Sequencing Status	Study Name	Genome_name	Sequencing Center	IMG Genome ID 	species	site 	compartment
+3300030511	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Am.s	DOE Joint Genome Institute (JGI)	3300030511	No.host.associated	Amatitan	soil
+3300032159	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	As.Ma.e	DOE Joint Genome Institute (JGI)	3300032159	A.salmiana	Magueyal	phyllosphere
+3300030499	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	As.Ma.rz	DOE Joint Genome Institute (JGI)	3300030499	A.salmiana	Magueyal	rhizosphere
+3300030692	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	As.Sf.e	DOE Joint Genome Institute (JGI)	3300030692	A.salmiana	Sfelipe	phyllosphere
+3300030502	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	As.Sf.rz	DOE Joint Genome Institute (JGI)	3300030502	A.salmiana	Sfelipe	rhizosphere
+3300030753	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	At.Am.e	DOE Joint Genome Institute (JGI)	3300030753	A.tequilana	Amatitan	phyllosphere
+3300030500	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	At.Am.rz	DOE Joint Genome Institute (JGI)	3300030500	A.tequilana	Amatitan	rhizosphere
+3300030504	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	At.Pe.e	DOE Joint Genome Institute (JGI)	3300030504	A.tequilana	Penjamo 	phyllosphere
+3300030512	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	At.Pe.rz	DOE Joint Genome Institute (JGI)	3300030512	A.tequilana	Penjamo 	rhizosphere
+3300030510	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Ma.s	DOE Joint Genome Institute (JGI)	3300030510	No.host.associated	Magueyal	soil
+3300030505	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Mg.Ma.e	DOE Joint Genome Institute (JGI)	3300030505	M.geometrizans	Magueyal	phyllosphere
+3300030514	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Mg.Ma.rz	DOE Joint Genome Institute (JGI)	3300030514	M.geometrizans	Magueyal	rhizosphere
+3300030501	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Mg.Sf.e	DOE Joint Genome Institute (JGI)	3300030501	M.geometrizans	Sfelipe	phyllosphere
+3300030497	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Mg.Sf.rz	DOE Joint Genome Institute (JGI)	3300030497	M.geometrizans	Sfelipe	rhizosphere
+3300030498	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Or.Ma.e	DOE Joint Genome Institute (JGI)	3300030498	O.robusta	Magueyal	phyllosphere
+3300030516	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Or.Ma.rz	DOE Joint Genome Institute (JGI)	3300030516	O.robusta	Magueyal	rhizosphere
+3300030495	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Or.Sf.e	DOE Joint Genome Institute (JGI)	3300030495	O.robusta	Sfelipe	phyllosphere
+3300030515	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Or.Sf.rz	DOE Joint Genome Institute (JGI)	3300030515	O.robusta	Sfelipe	rhizosphere
+3300030496	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Pe.s	DOE Joint Genome Institute (JGI)	3300030496	No.host.associated	Penjamo 	soil
+3300030513	Metagenome	Draft	Agave microbial communities from California, USA, and Mexico	Sf.s	DOE Joint Genome Institute (JGI)	3300030513	No.host.associated	Sfelipe	soil
