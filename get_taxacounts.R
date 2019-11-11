@@ -1,9 +1,10 @@
 ### CREATE A TAXONOMIC PROFILE OF THE METAGENOMES ###
+# The output will be dataframes with the genecounts of each taxa in each metagenome
 
 # WORKING DIRECTORIES
-setwd("C:/my_path")
-data.dir=c("C:/my_data") #metagenomic data
-result.dir=c("C:/my_path/PAPER/")
+setwd("/my_path")
+data.dir=c("/my_data") #metagenomic data
+result.dir=c("/my_path/PAPER/")
 dir.create(result.dir, recursive = T, showWarnings = F)
 
 # LIBRARIES
@@ -66,7 +67,8 @@ load(file=paste(result.dir,"meta_class_ids",sep="/"));class.data=data.frame(line
 load(file=paste(result.dir,"meta_order_ids",sep="/"));order.data=data.frame(lineage=sort(o))
 load(file=paste(result.dir,"meta_family_ids",sep="/"));family.data=data.frame(lineage=sort(f)) #load taxa
 
-#thr=50 #select a threshold?
+# ADJUST FOR SIMILARITY THRESHOLD IF YOU LIKE
+# thr=50 # select a threshold?
 
 for (i in files){ print(keys[i])
   
