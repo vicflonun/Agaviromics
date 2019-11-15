@@ -1,4 +1,4 @@
-# RENYI ANALYSIS #
+# Calculates diversity indexes for taxonomic and functional gene counts #
 
 # LIBRARIES
 library (BiodiversityR)
@@ -7,9 +7,9 @@ library(ggplot2)
 library(extrafont) #font_import() loadfonts(device = "win") 
 
 # DIRECTORIES
-result.dir=c("C:/Users/victo/Google Drive/PAPER/counts_per_taxa_domain")
-main.dir=c("C:/Users/victo/Google Drive/PAPER")
-data.dir=c("C:/Users/victo/Desktop/Data") #metagenomic data
+result.dir=c("/my_path/result_path/countdata")
+main.dir=c("my_path/result_path/")
+data.dir=c("my_data") #metagenomic data
 
 # PLOT SETTINGS
 tema=theme(axis.text.x = element_text(color="black",size=15, angle=90, family="Times New Roman",hjust=0.95,vjust=0.2),
