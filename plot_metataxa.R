@@ -89,10 +89,19 @@ library(ggrepel)
 library(RColorBrewer)
 
 #data
-taxd=c("domain", "phylum", "class","order","family","genus")[4]
-result=read.delim(file = paste(main.dir,paste(taxd,"absolut_counts.txt",sep="_"),sep="/"),sep="\t", header = T,stringsAsFactors = F)
-result_norm=as.data.frame(t(t(result[,-1])/colSums(result[,-1])))
-rownames(result_norm)=result$lineage
+taxd=c("domain","phylum","class","order","family","genus")[5] #select rank
+load(file=paste(main.dir,paste("meta",taxd,"ids",sep = "_"),sep="/")) #load all phylum names
+result=read.delim(file = paste(main.dir,paste(taxd,"absolut_counts.txt",sep="_"),sep="/"),sep="\t", header = T) #load data
+datos=t(result[,-1])
+datos=round(datos, digits = 0)
+
+#rarify
+the.seed=65750
+set.seed(the.seed)
+datos_rar=rrarefy(datos, sample = min(colSums(datos)))
+rowSums(datos_rar)
+result_norm=as.data.frame(t(datos_rar/rowSums(datos_rar)*100)) #relative abundance
+rownames(result_norm)=result$lineage #replace lineage names
 
 #calculate dimensions
 scaling=vegdist(t(result_norm), method = "bray") #calculate distance
