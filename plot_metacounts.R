@@ -78,7 +78,6 @@ png(filename = paste(result.dir,"relative_abundance_processes_legend.png",sep = 
 a ; dev.off()
 
 
-
 # NMDS OF KO COUNTS#
 
 library(vegan)
@@ -90,7 +89,15 @@ library(RColorBrewer)
 # LOAD DATA
 load(file=paste(result.dir,"taxon.ko.counts.list",sep = "/"))
 data=taxon.tab.list[["Bacteria"]]+taxon.tab.list[["Archaea"]]
-result_norm=as.data.frame(t(t(data)/colSums(data))) #calculate relative abundance
+datos=round(t(data), digits = 0)
+
+#rarify
+the.seed=65750
+set.seed(the.seed)
+datos_rar=rrarefy(datos, sample = min(rowSums(datos)))
+rowSums(datos_rar)
+result_norm=as.data.frame(t(datos_rar/rowSums(datos_rar)*100)) #relative abundance
+colSums(result_norm)
 
 result_norm=result_norm[,-9] #eliminate very dismilar samples
 
