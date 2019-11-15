@@ -98,7 +98,7 @@ datos=round(datos, digits = 0)
 #rarify
 the.seed=65750
 set.seed(the.seed)
-datos_rar=rrarefy(datos, sample = min(colSums(datos)))
+datos_rar=rrarefy(datos, sample = min(rowSums(datos)))
 rowSums(datos_rar)
 result_norm=as.data.frame(t(datos_rar/rowSums(datos_rar)*100)) #relative abundance
 rownames(result_norm)=result$lineage #replace lineage names
