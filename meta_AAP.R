@@ -1,3 +1,5 @@
+#CREATES ABUNDANCE PLOTS FOR AEROBIC ANOXYGENIC PHOTOTROPHY GENES #
+
 # WORKING DIRECTORIES
 setwd("/my_dir/")
 data.dir=c("my_data") #metagenomic data
