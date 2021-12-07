@@ -1,5 +1,5 @@
 # Agaviromics
-This repository contains the code used to perform the downstream statistical analyses in Flores-Nuñez, et al. submmited to Frontiers in Microbiology. 
+This repository contains the code used to perform the downstream statistical analyses in Flores-Nuñez, et al. 2020 in Frontiers in Microbiology. 
 
 The datasets generated for this study can be found in the IMG platform, IMG Genome IDs 3300032159,
 3300030499, 3300030692, 3300030502, 3300030753, 3300030500, 3300030504, 3300030512, 3300030505, 3300030514, 3300030501,
